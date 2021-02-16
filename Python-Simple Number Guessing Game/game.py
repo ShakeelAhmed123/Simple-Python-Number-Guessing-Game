@@ -8,7 +8,6 @@ print("*      GAME      *")
 print("******************")
 
 answer = random.randint(0, 20)
-print()
 
 
 def easy_mode():
